@@ -1,0 +1,44 @@
+{
+    "href": "https://api.spotify.com/v1/me/shows?offset=0&limit=1",
+    "items": [{
+        "added_at": "2021-12-23T17:23:06Z",
+        "show": {
+            "available_markets": ["AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KH", "KI", "KM", "KN", "KW", "LA", "LB", "LC", "LI", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW"],
+            "copyrights": [],
+            "description": "The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.",
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+            },
+            "href": "https://api.spotify.com/v1/shows/4rOoJ6Egrf8K2IrywzwOMk",
+            "html_description": "The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.",
+            "id": "4rOoJ6Egrf8K2IrywzwOMk",
+            "images": [{
+                "height": 640,
+                "url": "https://i.scdn.co/image/9af79fd06e34dea3cd27c4e1cd6ec7343ce20af4",
+                "width": 640
+            }, {
+                "height": 300,
+                "url": "https://i.scdn.co/image/d3ae59a048dff7e95109aec18803f22bebe82d2f",
+                "width": 300
+            }, {
+                "height": 64,
+                "url": "https://i.scdn.co/image/97d6fdf3e55a3a1c10662d132232ccbd53740bc3",
+                "width": 64
+            }],
+            "is_externally_hosted": false,
+            "languages": ["en-US"],
+            "media_type": "mixed",
+            "name": "The Joe Rogan Experience",
+            "publisher": "Joe Rogan",
+            "total_episodes": 1940,
+            "type": "show",
+            "uri": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk"
+        }
+    }],
+    "limit": 1,
+    "next": "https://api.spotify.com/v1/me/shows?offset=1&limit=1",
+    "offset": 0,
+    "previous": null,
+    "total": 4
+}

@@ -1,0 +1,37 @@
+{
+    "items": [{
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        "followers": {
+            "href": null,
+            "total": 3055281
+        },
+        "genres": ["australian hip hop"],
+        "href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
+        "id": "2tIP7SsRs7vjIcLrU85W8J",
+        "images": [{
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb70783ea42c106f3f325f53af",
+            "width": 640
+        }, {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517470783ea42c106f3f325f53af",
+            "width": 320
+        }, {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17870783ea42c106f3f325f53af",
+            "width": 160
+        }],
+        "name": "The Kid LAROI",
+        "popularity": 90,
+        "type": "artist",
+        "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+    }],
+    "total": 50,
+    "limit": 1,
+    "offset": 0,
+    "previous": null,
+    "href": "https://api.spotify.com/v1/me/top/artists?limit=1&offset=0",
+    "next": "https://api.spotify.com/v1/me/top/artists?limit=1&offset=1"
+}

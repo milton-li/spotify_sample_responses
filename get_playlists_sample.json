@@ -1,0 +1,50 @@
+{
+    "href": "https://api.spotify.com/v1/users/1250373401/playlists?offset=0&limit=1",
+    "items": [{
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3EItsIn9tNX3ftJmkL3jq5"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3EItsIn9tNX3ftJmkL3jq5",
+        "id": "3EItsIn9tNX3ftJmkL3jq5",
+        "images": [{
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2730db43130a9aaa7bae56967edab67616d0000b2732887f8c05b5a9f1cb105be29ab67616d0000b273aa57907bf0cb2ca0c8cc74bcab67616d0000b273ca29f023b5d11f85de854f1b",
+            "width": 640
+        }, {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2730db43130a9aaa7bae56967edab67616d0000b2732887f8c05b5a9f1cb105be29ab67616d0000b273aa57907bf0cb2ca0c8cc74bcab67616d0000b273ca29f023b5d11f85de854f1b",
+            "width": 300
+        }, {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2730db43130a9aaa7bae56967edab67616d0000b2732887f8c05b5a9f1cb105be29ab67616d0000b273aa57907bf0cb2ca0c8cc74bcab67616d0000b273ca29f023b5d11f85de854f1b",
+            "width": 60
+        }],
+        "name": "savage hour",
+        "owner": {
+            "display_name": "Milton Li",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1250373401"
+            },
+            "href": "https://api.spotify.com/v1/users/1250373401",
+            "id": "1250373401",
+            "type": "user",
+            "uri": "spotify:user:1250373401"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MzQsMTQwMWEyNGQxOWQ0YmMwNTIxYTI1NWU4YzQxMWQ1ZjhhNTYwNTFhNg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3EItsIn9tNX3ftJmkL3jq5/tracks",
+            "total": 58
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3EItsIn9tNX3ftJmkL3jq5"
+    }],
+    "limit": 1,
+    "next": "https://api.spotify.com/v1/users/1250373401/playlists?offset=1&limit=1",
+    "offset": 0,
+    "previous": null,
+    "total": 53
+}
